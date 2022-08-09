@@ -17,11 +17,11 @@
 [Facebook sonw3940@gmail.com  YMMT DNYJ HG5A BEKJ JVYW PC4Y LUGU A6YX ]( https://totp.danhersam.com/#/YMMTDNYJHG5ABEKJJVYWPC4YLUGUA6YX)
 
 
-**API senim90625@3dinews.com 2IM4SWXVUO4Q2WAVHVA3ZPCMVPZNVK7G
+- API senim90625@3dinews.com 2IM4SWXVUO4Q2WAVHVA3ZPCMVPZNVK7G
 
-mail.com jhaoajka@mail.com 
+- mail.com jhaoajka@mail.com 
 
-GITHUB      7sk8g739g@mozmail.com  jha@jhajikv.anonaddy.com**
+- GITHUB 7sk8g739g@mozmail.com  jha@jhajikv.anonaddy.com
 
       
     https://blitz.ahadns.com/1:1.2.3.4.5.6.7.8.13.14.15.16.17

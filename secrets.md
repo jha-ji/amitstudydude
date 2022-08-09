@@ -24,11 +24,12 @@
 - GITHUB 7sk8g739g@mozmail.com  jha@jhajikv.anonaddy.com
 
       
-    https://blitz.ahadns.com/1:1.2.3.4.5.6.7.8.13.14.15.16.17
+     
+      https://blitz.ahadns.com/1:1.2.3.4.5.6.7.8.13.14.15.16.17
 
-         https://dns.adguard.com/dns-query
+      https://dns.adguard.com/dns-query
 
-       dns.adguard.com
+      dns.adguard.com
 
       bitbucket 7sk8g739g@mozmail.com  utT2AtgBKq9PKvckcLLN
 

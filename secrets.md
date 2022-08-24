@@ -8,7 +8,9 @@
 
 [GitHub - amitstudydude ](https://totp.danhersam.com/#/WTC647MCKPI3PB4F ) WTC647MCKPI3PB4F
 
-[Github - jhajikv-ji ]( https://totp.danhersam.com/#/SZXJEN7YK5BDVS3B ) SZXJEN7YK5BDVS3B
+[GitHub - jhajikv-ji ]( https://totp.danhersam.com/#/SZXJEN7YK5BDVS3B ) SZXJEN7YK5BDVS3B jha@jhajikv.anonaddy.com
+
+[GitHub - amit-study ]( https://totp.danhersam.com/#/H6QCPKBFNPZH3N2N ) H6QCPKBFNPZH3N2N 0q1059n7@jhajikv.anonaddy.com
 
 [Firefox jhajikv ](https://totp.danhersam.com/#/N5ME6K32IRWEKNCFMVZDQ4SRF5FU6SSD ) N5ME 6K32 IRWE KNCF MVZD Q4SR F5FU 6SSD
 

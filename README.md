@@ -11,7 +11,7 @@
 * Click the link [ workflow output ] . You will be redirected to settings . Do the settings you need , then delete settings/preferences from the link to access RDP/SSH
 * Use Hackers' keyboard [play store]
 * Ctrl-Shift-Alt-Enter [ or swipe left ] - for clipboard-menu
-* Enjoy
+
 
 * **Touchscreen-Optimized-Settings** => Select text-input && Drag mouse [right]
 ![alt text](https://github.com/jhajikv-ji/no/blob/main/image.jpg?raw=true)

@@ -13,6 +13,7 @@ jobs:
         run: |
           export repo=amitstudydude
           echo ${{ github.repository }}
+          echo ${{ github.event.repository.name }}
           git clone https://github.com/amitstudydude/$repo.git
           mv "$repo"/* . 
           rm -rf "$repo"

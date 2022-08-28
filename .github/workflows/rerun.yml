@@ -1,7 +1,7 @@
 name: rerun
 on:
   workflow_run:
-    workflows: [RDP]
+    workflows: [merge]
     types: [completed]
   workflow_dispatch:
 jobs:

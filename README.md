@@ -5,28 +5,21 @@
 ## **If you are looking for github Linux_Rdp , I have it but I dont use it On my personal account to avoid ban as i store all my Rdp config files in this repo**
 
 # **Easy Way** to get github RDP 
-* Go to https://github.com/jhajikv-ji/no
+* Go to https://gitlab.com/amit-study/amit
 * Read instructions
 
 # **Hard Way** (but you know it's benefits)
 * **I am using Apache-Guacamole here**
-* Fork this repo
+* Fork this repo : https://github.com/jhajikv-ji/no
 * Run The Workflow
 * Wait 2 min
-* Click the link [ workflow output ]
-* Read login:passwd details given below the link
-
-## For Mobile users 
-* Do the following settings => Select text-input && Drag mouse [right]
-* ![alt text](https://github.com/jhajikv-ji/no/blob/main/image.jpg?raw=true)
+* Read login:passwd details [ workflow output ]
+* Click the link [ workflow output ] . You will be redirected to settings . Do the settings you need , then delete settings/preferences from the link to access RDP/SSH
 * Use Hackers' keyboard [play store]
-* Delete settings/preferences from the link
-* Ctrl-Shift-Alt-Enter [ or swipe left ] - for clipboard 
+* Ctrl-Shift-Alt-Enter [ or swipe left ] - for clipboard-menu
 * Enjoy
 
-## For Desktop users
-* Delete settings/preferences from the link
-* Ctrl-Shift-Alt-Enter for clipboard
-* Enjoy
+* **Example settings** => Select text-input && Drag mouse [right]
+![alt text](https://github.com/jhajikv-ji/no/blob/main/image.jpg?raw=true)
 
 

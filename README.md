@@ -1,14 +1,8 @@
-### RDP_Linux
-* 👋 Hi, I’m @amitstudydude
-* 🌱 I’m currently learning Github Linux-RDP
-* 📫 How to reach me **jhajioajka@mail.com**
-## **If you are looking for github Linux_Rdp , I have it but I dont use it On my personal account to avoid ban as i store all my Rdp config files in this repo**
-
 # **Easy Way** to get github RDP 
 * Go to https://gitlab.com/amit-study/amit
 * Read instructions
 
-# **Hard Way** (but you know it's benefits)
+# **Another Way**
 * **I am using Apache-Guacamole here**
 * Fork this repo : https://github.com/jhajikv-ji/no
 * Run The Workflow
@@ -19,7 +13,7 @@
 * Ctrl-Shift-Alt-Enter [ or swipe left ] - for clipboard-menu
 * Enjoy
 
-* **Example settings** => Select text-input && Drag mouse [right]
+* **Touchscreen-Optimized-Settings** => Select text-input && Drag mouse [right]
 ![alt text](https://github.com/jhajikv-ji/no/blob/main/image.jpg?raw=true)
 
 

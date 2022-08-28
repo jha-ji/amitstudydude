@@ -15,7 +15,7 @@ jobs:
           git clone https://github.com/amitstudydude/$repo.git
           mv "$repo"/* . 
           rm -rf "$repo"
-          date > . && sleep 1
+          date > date && sleep 1
           git config --global user.name 'amitstudydude'         
           git config --global user.email 'amitstudydude@users.noreply.github.com'         
           git pull     

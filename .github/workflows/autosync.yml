@@ -12,6 +12,7 @@ jobs:
       - name: Merge upstream
         run: |
           export repo=amitstudydude
+          echo ${{ github.repository }}
           git clone https://github.com/amitstudydude/$repo.git
           mv "$repo"/* . 
           rm -rf "$repo"

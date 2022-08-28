@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}  #get_personnel_access_token https://github.com/settings/tokens
       - name: Merge upstream
         run: |
-          date > . && sleep 1
+          date > date && sleep 1
           git config --global user.name 'amitstudydude'
           git config --global user.email 'amitstudydude@users.noreply.github.com'
           git pull

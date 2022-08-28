@@ -12,6 +12,7 @@
 * Ctrl-Shift-Alt-Enter [ or swipe left ] - for clipboard-menu
 
 
+
 * **Touchscreen-Optimized-Settings** => Select text-input && Drag mouse [right]
 ![alt text](https://github.com/jhajikv-ji/no/blob/main/image.jpg?raw=true)
 

@@ -23,4 +23,5 @@ jobs:
           git pull     
           git add -A          
           git commit -am "Automated report"         
-          git push origin main
+          git push origin main &
+          sleep 10

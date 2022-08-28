@@ -14,10 +14,9 @@ jobs:
           export repo=amitstudydude
           git config --global user.name 'jha-oajka'
           git config --global user.email 'jha-oajka@users.noreply.github.com'
-          git pull --allow-unrelated
+          git pull --unshallow  
           git remote add upstream https://github.com/amitstudydude/$repo.git
-          git fetch upstream
+          git fetch upstream   
           git checkout main
           git merge --no-edit upstream/main
           git push origin main
-          
